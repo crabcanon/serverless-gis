@@ -9,5 +9,5 @@
 
 ---
 
-<sub>[Blog](https://yehuang.me) &nbsp;&middot;&nbsp; [Gmail](<mailto:sysuhuangye@gmail.com>)</sub>
+<sub>Check out my [blog](https://yehuang.me) or send messages to [Gmail](<mailto:sysuhuangye@gmail.com>).</sub>
 
