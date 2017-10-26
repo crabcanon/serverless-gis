@@ -1,4 +1,7 @@
-# Serverless GIS [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+# Serverless GIS
+
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+[![GitHub issues](https://img.shields.io/github/issues/crabcanon/serverless-gis.svg)](https://github.com/crabcanon/serverless-gis/issues)
 
 ---
 
@@ -6,6 +9,5 @@
 
 ---
 
-> [yehuang.me](https://yehuang.me) &nbsp;&middot;&nbsp;
-> GitHub [@crabcanon](https://github.com/crabcanon) &nbsp;&middot;&nbsp;
-> Gmail [@sysuhuangye](<mailto:sysuhuangye@gmail.com>)
+<sub>[Blog](https://yehuang.me) &nbsp;&middot;&nbsp; [Gmail](<mailto:sysuhuangye@gmail.com>)</sub>
+
